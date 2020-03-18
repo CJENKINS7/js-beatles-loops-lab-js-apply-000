@@ -18,6 +18,10 @@ function johnLennonFacts(facts) {
   return Lennonfacts;
 }
 
+//facts are the Lennon facts about him
+//i is where to start on the list of facts
+//facts.length helps know the amount to loop
+
 function iLoveTheBeatles(n){
 var array = [];
 do {
