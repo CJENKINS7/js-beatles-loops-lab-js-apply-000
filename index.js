@@ -6,7 +6,9 @@ for (var i = 0; i < musicians.length; i++) {
   return theBeatlesPlay = array
 }
 
-
+//musicians list the first and last names of band members
+//instruments list the intruments played by the members
+//" " helps leave a space between musicians and intrument also introduces the word plays
 
 function johnLennonFacts(facts) {
   var Lennonfacts = [];
